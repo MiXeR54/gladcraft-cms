@@ -3,7 +3,7 @@ import Article from "./arcticle";
 
 export default function Feed() {
   return (
-    <div className="col-md-8 order-md-first">
+    <div className="col-lg-8 order-lg-first">
       <Article
         title="Заголовок"
         date="12/12/2019"

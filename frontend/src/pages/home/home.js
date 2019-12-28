@@ -1,5 +1,5 @@
 import React from "react";
-import Feed from "../../components/News/feed";
+import Feed from "../../components/news/feed";
 import Monitoring from "../../components/monitoring/servers";
 
 export default function Home() {
